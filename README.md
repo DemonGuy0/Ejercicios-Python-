@@ -5,7 +5,9 @@ Lista de ejercicios para resolver en Python
 
 Explicación corta
 Listas = colecciones ordenadas.
+
 Diccionarios = claves → valores.
+
 Aquí entrenas manipulación de datos.
 
 Ejercicios
