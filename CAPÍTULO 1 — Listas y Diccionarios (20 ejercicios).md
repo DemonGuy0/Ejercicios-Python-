@@ -1,8 +1,6 @@
 # Ejercicios-Python-
 Lista de ejercicios para resolver en Python 
 
-🟦 📍 CAPÍTULO 1 — Listas y Diccionarios (20 ejercicios)
-
 Explicación corta
 Listas = colecciones ordenadas.
 
