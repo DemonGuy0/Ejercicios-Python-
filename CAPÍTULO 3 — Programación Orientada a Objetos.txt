@@ -1,0 +1,30 @@
+Explicación:
+
+Aquí aprendes lo que te falta para pensar en estructura.
+
+Ejercicios:
+1. Clase Canción con atributos: nombre, artista, duración.
+2. Clase Playlist con: agregar, eliminar, total_duración.
+3. Clase Banco: depositar, retirar, transferir.
+4. Clase Usuario con contraseña en hash.
+5. Clase Auto con método acelerar y frenar, velocidad limitada.
+6. Herencia: Clase Estudiante → Persona.
+7. Polimorfismo: varias clases con método hablar().
+8. Clase Inventario: agregar, buscar, eliminar, exportar JSON.
+9. Implementa un contador global usando diseño Singleton.
+10. Clase Carta y clase Mazo (barajar, repartir).
+11. Clase Punto con método distancia entre dos puntos.
+12. Clase Rectángulo con área, perímetro y colisiones.
+13. Sistema de biblioteca (POO completa).
+14. Simulación de tráfico con autos generados aleatoriamente.
+15. Clase Cola con métodos enqueue, dequeue.
+16. Clase Grafo (agregar nodos, aristas).
+17. Implementa un “user bot” simulado con clases Event y Handler.
+18. Clase ConfigLoader (lee JSON al iniciar).
+19. Clase Notas con estadísticas y exportación.
+20. Clase Tarea con estados: pendiente, en progreso, completada.
+21. Sistema de login básico en POO.
+22. Clase Motor con potencia y eficiencia.
+23. Sistema de combate RPG: jugador, enemigo, ítems.
+24. Clase Restaurante con menú dinámico.
+25. POO + módulos: divide un proyecto entero en carpetas.
